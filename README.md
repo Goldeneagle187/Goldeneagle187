@@ -14,12 +14,7 @@ Botany student exploring fungal biology, plant tissue culture, and sustainable c
 ## Currently Working On
 - Optimizing media formulations for challenging species
 - Documenting grafting success rates across cultivars
-- Integrating data tools to streamline lab and field notes
-
-## Open to Collaborate On
-- Experimental projects blending lab and field work
-- Citizen science and biodiversity documentation
-- Sustainable horticultural methods
+- Integrating tools to streamline lab and field notes
 
 ## Contact
 Visit my personal site: [My Website](https://hisray.netlify.app)
