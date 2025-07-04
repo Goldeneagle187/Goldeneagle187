@@ -1,4 +1,4 @@
-# 🌱 Samindra Ray
+# Hi, I am Samindra Ray
 
 Botany student exploring fungal biology, plant tissue culture, and sustainable cultivation techniques. Passionate about the science behind growth — from grafting and micropropagation to soil health and organic fertilizers.
 
