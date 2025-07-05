@@ -1,6 +1,6 @@
 # Hi, I am Samindra Ray
 
-Botany student exploring fungal biology, plant tissue culture, and sustainable cultivation techniques. Passionate about the science behind growth — from grafting and micropropagation to soil health and organic fertilizers.
+I'm a Botany student exploring fungal biology, plant tissue culture, and sustainable cultivation techniques. Passionate about the science behind growth — from grafting and micropropagation to soil health and organic fertilizers.
 
 ## Areas of Interest
 - Plant tissue culture & callus induction
@@ -20,7 +20,7 @@ Botany student exploring fungal biology, plant tissue culture, and sustainable c
 Visit my personal site: [My Website](https://hisray.netlify.app)
 The website is open-sourced under GPLv3.
 
-> Thank you for reading till the end 😁
+> Hope you have a great day. **Namaste** 🙏 😁
 <!---
 Goldeneagle187/Goldeneagle187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
