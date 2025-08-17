@@ -1,24 +1,8 @@
 # Hi, I am Samindra Ray
+Currently I'm taking life easy at home.
+I fear nothing. But that word, the j*b word scares me.
 
-I'm a Botany student exploring fungal biology, plant tissue culture, and sustainable cultivation techniques. Passionate about the science behind growth — from grafting and micropropagation to soil health and organic fertilizers.
-
-## Areas of Interest
-- Plant tissue culture & callus induction
-- Fungal biology & applied mycology
-- Grafting and advanced propagation methods
-- Soil science, composting, and natural fertilizers
-- Laboratory techniques: autoclaving, sterilization, laminar flow work
-- Data tracking and basic automation to support research
-- A little bit of coding (Mostly elementary frontend work)
-
-## Currently Working On
-- Optimizing media formulations for challenging species
-- Documenting grafting success rates across cultivars
-- Integrating tools to streamline lab and field notes
-
-## Contact
-Visit my personal site: [My Website](https://hisray.netlify.app)
-The website is open-sourced under GPLv3.
+That's it for introduction. Thank you and have a great day. 
 
 > Hope you have a great day. **Namaste** 🙏 😁
 <!---
